@@ -58,4 +58,3 @@ Dự án được phân phối theo giấy phép MIT – bạn có thể tự do
 
 > © 2025 – Prompt Video AI by mrtrinh0609-oss  
 > Xây dựng với ❤️ bằng Google AI Studio và Gemini
-# Create-prompt-video
