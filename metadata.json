@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Video & Prompt",
+  "description": "An application to generate video scripts, create visual concepts for characters and scenes using AI, and then synthesize detailed prompts for video generation models like Veo.",
+  "requestFramePermissions": []
+}
